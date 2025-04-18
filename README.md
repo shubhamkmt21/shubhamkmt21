@@ -18,6 +18,7 @@
  **<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
 
+
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
@@ -35,5 +36,3 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkmt21&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
-
